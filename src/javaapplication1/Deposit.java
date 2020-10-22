@@ -14,7 +14,7 @@ import java.awt.event.*;
 import javax.swing.*;
 import java.sql.*;
 import java.util.*;
-
+//imported all necessary libraries
 public class Deposit extends JFrame implements ActionListener{
     
     JTextField t1,t2;
